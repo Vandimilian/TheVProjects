@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gamepoly.Board">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAACIAAAAAAAAAIAAAAAAEA=</HashCode>
+      <FileName>Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.Card">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.CardCell">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAEAAAAAQAAAAAAACAAAAAA=</HashCode>
+      <FileName>CardCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.Cell">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAEgAQAQAAGAAAAAAAEQAAAAABkAAAAAAA=</HashCode>
+      <FileName>Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.CompanyCell">
+    <Position X="11.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CompanyCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.Game">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAAAAAAAIAAAAAAAAAAAAAQIAAIAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.GoToJailCell">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoToJailCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.Interface" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAQD/AwA=</HashCode>
+      <FileName>Interface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.JailCell">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JailCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.ParkingCell">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgQAAAAAAA=</HashCode>
+      <FileName>ParkingCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.Player">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAIAAAAEAAAgAAACAAMAAAEAAEAQAAAAAAAAAAEAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.Program" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.PropertyCell">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYAQCBCCAAgAAAAAAIAAAAAAAQATAAAAAgAAIAAA=</HashCode>
+      <FileName>PropertyCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.TaxCell">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TaxCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.TrainCell">
+    <Position X="16" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQABAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.WelcomeScreen">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAgACACAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>WelcomeScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.Properties.Resources" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAABEAAAAQAAAAAAIAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gamepoly.Properties.Settings" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

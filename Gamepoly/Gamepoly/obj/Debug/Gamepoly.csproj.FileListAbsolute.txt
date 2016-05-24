@@ -1,0 +1,10 @@
+c:\users\sacha\documents\visual studio 2015\Projects\Gamepoly\Gamepoly\bin\Debug\Gamepoly.exe.config
+c:\users\sacha\documents\visual studio 2015\Projects\Gamepoly\Gamepoly\bin\Debug\Gamepoly.exe
+c:\users\sacha\documents\visual studio 2015\Projects\Gamepoly\Gamepoly\bin\Debug\Gamepoly.pdb
+c:\users\sacha\documents\visual studio 2015\Projects\Gamepoly\Gamepoly\obj\Debug\Gamepoly.csprojResolveAssemblyReference.cache
+c:\users\sacha\documents\visual studio 2015\Projects\Gamepoly\Gamepoly\obj\Debug\Gamepoly.Properties.Resources.resources
+c:\users\sacha\documents\visual studio 2015\Projects\Gamepoly\Gamepoly\obj\Debug\Gamepoly.csproj.GenerateResource.Cache
+c:\users\sacha\documents\visual studio 2015\Projects\Gamepoly\Gamepoly\obj\Debug\Gamepoly.exe
+c:\users\sacha\documents\visual studio 2015\Projects\Gamepoly\Gamepoly\obj\Debug\Gamepoly.pdb
+C:\Users\Sacha\Documents\Visual Studio 2015\Projects\Gamepoly\Gamepoly\obj\Debug\Gamepoly.WelcomeScreen.resources
+C:\Users\Sacha\Documents\Visual Studio 2015\Projects\Gamepoly\Gamepoly\obj\Debug\Gamepoly.Interface.resources
